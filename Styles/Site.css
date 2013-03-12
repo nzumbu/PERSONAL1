@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6
     font-variant: small-caps;
     text-transform: none;
     font-weight: 200;
-    margin-bottom: 0px;
+    margin-bottom: 0.1px;
 }
 
 h1
