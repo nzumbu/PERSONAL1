@@ -42,7 +42,7 @@
 <form id="form1" runat="server">
 <div class="demo">
 <div class="ui-widget">
-<label for="tbAuto">Full Name: </label>
+<label for="tbAuto">Person/Organisation Name: </label>
 <input type="text" id="txtFullName" class="auto" />
 </div>
 </div>
